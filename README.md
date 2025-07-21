@@ -50,10 +50,9 @@ The study followed a **two-step framework**:
 * **Cartographic Visualization** – network maps, LULC layers, terminal access models
 * **Critical evaluation** of transportation and environmental policies
 
-## 📁 Files Included
+## 📁 File Included
 
-* `Assignment#3.pdf` – My structured summary and slide-based analysis
-* `Original Article.pdf` – Reference scientific article used in the assignment
+* `Transportation Planning Summary.pdf` – My structured summary and slide-based analysis
 
 ## 📌 Academic Context
 
@@ -65,7 +64,7 @@ This project was completed as part of my coursework in the **Master's in Geomati
 > Title: *Transportation Planning through GIS and Multicriteria Analysis: Case Study of Beijing and XiongAn*
 > Journal: Journal of Advanced Transportation
 > Year: 2018
-> Link: [2018](https://doi.org/10.1155/2018/2696037)
+> Link: [Transportation Planning through GIS and Multicriteria Analysis](https://doi.org/10.1155/2018/2696037)
 
 
 ### 👨‍💻 **Author**
