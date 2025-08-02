@@ -70,4 +70,4 @@ This project was completed as part of my coursework in the **Master's in Geomati
 ### 👨‍💻 **Author**
 
 * **Yasser I. Barhoom**
-* **Geospatial Engineer**
+* **Geomatics Engineer**
